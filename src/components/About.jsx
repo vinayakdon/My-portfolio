@@ -2,6 +2,7 @@ import React from 'react'
 import aboutimg from "../assets/about.jpg"
 import {ABOUT_TEXT } from "../constants"
 import { motion } from "framer-motion"
+import DownloadCv from './DownloadCv'
 
 const About = () => {
   return (
@@ -30,6 +31,7 @@ const About = () => {
                     <div className='flex justify-center lg:justify-start'>
                         <p className='my-2 max-w-xl py-6'>{ABOUT_TEXT}</p>
                     </div>
+                    <DownloadCv/>
             </motion.div>
         </div>
       
