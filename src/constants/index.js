@@ -56,7 +56,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Shree Lakshmi temple road Gokak, karnataka ",
+  address: "Jp nagar 5th phase bengaluru ",
   phoneNo: "+91 9972929431 ",
   email: "vinayakdon25@gmail.com"
 };
