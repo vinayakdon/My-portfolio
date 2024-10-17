@@ -14,8 +14,8 @@ const Navbar = () => {
         </div>
 
         <div className='m-8 flex items-center justify-center gap-4 text-2xl'>
-            <a href='https://www.linkedin.com/in/vinayak-donawad-a018171b8/'><FaLinkedin /></a>
-            <a href='https://github.com/vinayakdon'><FaGithub/></a>
+            <a href='https://www.linkedin.com/in/vinayak-donawad-a018171b8/' target='_blank'><FaLinkedin /></a>
+            <a href='https://github.com/vinayakdon' target='_blank'><FaGithub/></a>
             <FaInstagram/>
             <FaSquareXTwitter/>
         </div>
